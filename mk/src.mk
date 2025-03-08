@@ -25,3 +25,6 @@ H += $(wildcard   os/inc/*.h*) $(wildcard   os/*/inc/*.h*)
 
 # Python
 P += $(wildcard src/*.py)
+
+# JavaScript
+J += $(wildcard src/*.js)
