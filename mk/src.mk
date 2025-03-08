@@ -35,4 +35,3 @@ J += $(wildcard src/*.js)
 
 # Python
 P += $(wildcard src/*.py)
-
