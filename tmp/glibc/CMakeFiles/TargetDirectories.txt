@@ -1,7 +1,0 @@
-/home/dponyatov/jsel/tmp/glibc/CMakeFiles/jsel.dir
-/home/dponyatov/jsel/tmp/glibc/CMakeFiles/edit_cache.dir
-/home/dponyatov/jsel/tmp/glibc/CMakeFiles/rebuild_cache.dir
-/home/dponyatov/jsel/tmp/glibc/CMakeFiles/list_install_components.dir
-/home/dponyatov/jsel/tmp/glibc/CMakeFiles/install.dir
-/home/dponyatov/jsel/tmp/glibc/CMakeFiles/install/local.dir
-/home/dponyatov/jsel/tmp/glibc/CMakeFiles/install/strip.dir

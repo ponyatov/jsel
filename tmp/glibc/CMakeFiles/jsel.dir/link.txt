@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++ -g -Wl,--print-memory-usage CMakeFiles/jsel.dir/os/linux/src/linux.cpp.o CMakeFiles/jsel.dir/os/src/main.cpp.o CMakeFiles/jsel.dir/src/app.cpp.o -o jsel_pc_dponyatov_250308 
