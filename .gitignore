@@ -3,4 +3,5 @@
 *.log
 *.pyc
 *.o
+node_modules/
 !.gitignore
